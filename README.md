@@ -20,9 +20,9 @@ Creates **shortcut** files that appear to be files with legitimate extensions.
 
 ## CHARACTERISTICS
  
-◌ **Executor hidden** with {whitespace}.
-◌ **Actions hidden** in the **internal structure** of the *shortcut file*.
-◌ **Target** practically **not visible**, only the executor.
+- ◌ **Executor hidden** with {whitespace}.
+- ◌ **Actions hidden** in the **internal structure** of the *shortcut file*.
+- ◌ **Target** practically **not visible**, only the executor.
 
 
 ## Installation
