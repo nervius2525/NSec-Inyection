@@ -1,6 +1,6 @@
 # NSec-Inyection Toolkit (COMPATIBLE ONLY WINDOWS)
 
-<img src="https://img.shields.io/badge/Python-3.12.0-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen"> <a href="/nervius2525/NSec-Inyection/archive/refs/heads/master.zip"><img src="https://img.shields.io/badge/Download-Now-green"></a>
+<img src="https://img.shields.io/badge/Python-3.12.0-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen"> <a href="https://github.com/nervius2525/NSec-Inyection/archive/refs/heads/master.zip"><img src="https://img.shields.io/badge/Download-Now-green"></a>
 
 **NSec-Inyection is a powerful ToolKit for Injecting Malware into a seemingly legitimate file.**
 
