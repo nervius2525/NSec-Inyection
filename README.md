@@ -17,6 +17,14 @@ Creates **shortcut** files that appear to be files with legitimate extensions.
 - [x] NSec has two **default extensions** which are **PDF** and **JPG**.
 - [x] NSec has an option to **customize** everything in a file, **even the legitimate extension and the icon**.
 
+
+## CHARACTERISTICS
+ 
+◌ **Executor hidden** with {whitespace}.
+◌ **Actions hidden** in the **internal structure** of the *shortcut file*.
+◌ **Target** practically **not visible**, only the executor.
+
+
 ## Installation
 
 Simply click on the following button to install NSec-Inyection on Windows.
