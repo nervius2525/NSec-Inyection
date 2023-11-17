@@ -1,17 +1,17 @@
 # NSec-Inyection Toolkit 
-**(COMPATIBLE ONLY WITH WINDOWS)**
+**(TOOL COMPATIBLE ONLY WITH WINDOWS)**
 
 <img src="https://img.shields.io/badge/Python-3.12.0-blue"> <a href="https://pypi.org/project/nsecinyection/"><img src="https://img.shields.io/badge/Status-Beta-orange"></a> <a href="https://github.com/nervius2525/NSec-Inyection/blob/master/LICENSE"><img src="https://img.shields.io/badge/Licence-MIT-yellowgreen"></a> <a href="https://github.com/nervius2525/NSec-Inyection/archive/refs/heads/master.zip"><img src="https://img.shields.io/badge/Download-Now-green"></a>
 
 **NSec-Inyection is a powerful ToolKit for Injecting Malware into a seemingly legitimate file.**
 
-Creates **shortcut** files that appear to be files with legitimate extensions 
+Creates **shortcut** files that appear to be files with legitimate extensions.
 
 ![NSEC](https://i.ibb.co/wNK7CXy/image.png)
 
 ## What makes it different
 
-- [x] NSec-Inyection includes ways to hide the actions you want to do so that the target will not show any actions..
+- [x] NSec-Inyection includes ways to hide the actions you want to do so that the target will not show any actions.
 - [x] NSec is **Effective** and **powerful** in to make believe that it is a legitimate file.
 - [x] NSec is **designed** to be as **customizable** as possible for **shortcuts**.
 - [x] NSec has two **default extensions** which are **PDF** and **JPG**.
