@@ -20,15 +20,19 @@ elif [ -f "/etc/arch-release" ]; then
 elif [[ "$OSTYPE" == "win32" || "$OS" == "Windows_NT" ]]; then
     echo "[i] Detected Windows."
     echo "[i] Installing on Windows..."
+    pip install nsecinyection > /dev/null 2>&1 || echo "[!] Could not install NSec-Inyection"
 else
     echo "[¡] We could not detect your system."
     echo "[i] Please install some things manually."
     echo "[*] Only Compatible With WINDOWS."
+    echo "---------------------------------------------------"
+    echo "[i] Use this command 'pip install nsecinyection'."
+    echo "----------------------OR---------------------------"
     git clone https://github.com/nervius2525/NSec-Inyection.git > /dev/null 2>&1 || echo "[!] Please install git"
     cd NSec-Inyection
     python3 --help > /dev/null 2>&1 || echo "[!] Please install python3."
     pip3 install -r requirements.txt  > /dev/null 2>&1 || echo "[!] Could not install the requirements."
-    python3 nsecinyection/main.py || echo "[!] Could not run NSec-Inyection."
+    python3 NSec-Inyection/main.py || echo "[!] Could not run NSec-Inyection."
 fi
 
 echo "[i] Done"
