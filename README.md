@@ -27,8 +27,6 @@ Creates **shortcut** files that appear to be files with legitimate extensions.
 
 ## Installation
 
-Simply click on the following button to install NSec-Inyection on Windows.
-
 ```.
 pip install nsecinyection
 ```
