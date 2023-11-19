@@ -35,9 +35,9 @@ pip install nsecinyection
 
 | Method | Module  |
 | ------- | --- |
-| shourt-cut.pdf | pdf |
-| shourt-cut.jpg | img |
-| shourt-cut.? | customized |
+| file.pdf | pdf |
+| file.jpg | img |
+| file.? | customized |
 ##
 
 
