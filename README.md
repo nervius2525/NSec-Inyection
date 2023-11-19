@@ -38,7 +38,7 @@ pip install nsecinyection
 | shourt-cut.pdf | pdf |
 | shourt-cut.jpg | img |
 | shourt-cut.? | customized |
-
+##
 
 
 **Please ⭐ the repo to support our project**
