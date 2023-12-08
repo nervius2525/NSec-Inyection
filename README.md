@@ -31,6 +31,9 @@ Creates **shortcut** files that appear to be files with legitimate extensions.
 pip install nsecinyection
 ```
 
+## HOW TO USE NSEC-INYECTION (VIDEO)
+ <a href="https://streamable.com/jmznlb"><img src="https://img.shields.io/badge/HOW-TO-USE-NSECINYECTION_VIDEO"></a>
+
 ## Module
 
 | Method | Module  |
