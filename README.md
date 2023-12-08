@@ -33,6 +33,7 @@ pip install nsecinyection
 
 ## HOW TO USE NSEC-INYECTION (VIDEO)
  <a href="https://streamable.com/jmznlb"><img src="https://img.shields.io/badge/HOW-TO-USE-NSECINYECTION-VIDEO"></a>
+ <a href="https://streamable.com/jmznlb"><img src="https://img.shields.io/badge/Status-Beta-orange"></a>
 
 ## Module
 
